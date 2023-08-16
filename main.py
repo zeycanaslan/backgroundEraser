@@ -1,6 +1,6 @@
 from rembg import remove
 
-input_path="C:\\Users\\USER\\Downloads\\WhatsApp Image 2023-05-03 at 13.24.38.jpeg"
+input_path="dosya yolunu giriniz"
 output_path="output.png"
 
 with open(input_path,"rb") as i:
